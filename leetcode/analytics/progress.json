@@ -1,0 +1,98 @@
+{
+  "generatedAt": "2026-02-24T14:34:59.082Z",
+  "totalAcceptedSubmissions": 1,
+  "uniqueProblemsSolved": 1,
+  "solvedToday": 1,
+  "currentStreak": 1,
+  "longestStreak": 1,
+  "languageBreakdown": {
+    "java": 1
+  },
+  "topicBreakdown": {
+    "string": 1
+  },
+  "last7Days": [
+    {
+      "date": "2026-02-18",
+      "count": 0
+    },
+    {
+      "date": "2026-02-19",
+      "count": 0
+    },
+    {
+      "date": "2026-02-20",
+      "count": 0
+    },
+    {
+      "date": "2026-02-21",
+      "count": 0
+    },
+    {
+      "date": "2026-02-22",
+      "count": 0
+    },
+    {
+      "date": "2026-02-23",
+      "count": 0
+    },
+    {
+      "date": "2026-02-24",
+      "count": 1
+    }
+  ],
+  "recentProblems": [
+    {
+      "title": "group-anagrams",
+      "slug": "group-anagrams",
+      "language": "java",
+      "day": "2026-02-24",
+      "problemUrl": "https://leetcode.com/problems/group-anagrams/",
+      "solutionPath": "leetcode/group-anagrams-group-anagrams/solution.java"
+    }
+  ],
+  "revisionQueue": [
+    {
+      "slug": "group-anagrams",
+      "title": "group-anagrams",
+      "problemUrl": "https://leetcode.com/problems/group-anagrams/",
+      "solutionPath": "leetcode/group-anagrams-group-anagrams/solution.java",
+      "attempts": 1,
+      "nextReviewDate": "2026-02-24",
+      "dueInDays": 0,
+      "status": "due"
+    }
+  ],
+  "recommendations": [
+    {
+      "topic": "array",
+      "solved": 0,
+      "suggestion": "Practice more array problems",
+      "url": "https://leetcode.com/problemset/?search=array"
+    },
+    {
+      "topic": "hash-map",
+      "solved": 0,
+      "suggestion": "Practice more hash-map problems",
+      "url": "https://leetcode.com/problemset/?search=hash%20map"
+    },
+    {
+      "topic": "two-pointers",
+      "solved": 0,
+      "suggestion": "Practice more two-pointers problems",
+      "url": "https://leetcode.com/problemset/?search=two%20pointers"
+    },
+    {
+      "topic": "sliding-window",
+      "solved": 0,
+      "suggestion": "Practice more sliding-window problems",
+      "url": "https://leetcode.com/problemset/?search=sliding%20window"
+    },
+    {
+      "topic": "binary-search",
+      "solved": 0,
+      "suggestion": "Practice more binary-search problems",
+      "url": "https://leetcode.com/problemset/?search=binary%20search"
+    }
+  ]
+}
