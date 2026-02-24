@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-02-24T14:34:59.082Z",
-  "totalAcceptedSubmissions": 1,
+  "generatedAt": "2026-02-24T14:37:26.470Z",
+  "totalAcceptedSubmissions": 2,
   "uniqueProblemsSolved": 1,
-  "solvedToday": 1,
+  "solvedToday": 2,
   "currentStreak": 1,
   "longestStreak": 1,
   "languageBreakdown": {
-    "java": 1
+    "java": 2
   },
   "topicBreakdown": {
-    "string": 1
+    "string": 2
   },
   "last7Days": [
     {
@@ -38,17 +38,17 @@
     },
     {
       "date": "2026-02-24",
-      "count": 1
+      "count": 2
     }
   ],
   "recentProblems": [
     {
-      "title": "group-anagrams",
+      "title": "49. Group Anagrams",
       "slug": "group-anagrams",
       "language": "java",
       "day": "2026-02-24",
       "problemUrl": "https://leetcode.com/problems/group-anagrams/",
-      "solutionPath": "leetcode/group-anagrams-group-anagrams/solution.java"
+      "solutionPath": "leetcode/group-anagrams-49.-group-anagrams/solution.java"
     }
   ],
   "revisionQueue": [
@@ -57,10 +57,10 @@
       "title": "group-anagrams",
       "problemUrl": "https://leetcode.com/problems/group-anagrams/",
       "solutionPath": "leetcode/group-anagrams-group-anagrams/solution.java",
-      "attempts": 1,
-      "nextReviewDate": "2026-02-24",
-      "dueInDays": 0,
-      "status": "due"
+      "attempts": 2,
+      "nextReviewDate": "2026-02-25",
+      "dueInDays": 1,
+      "status": "upcoming"
     }
   ],
   "recommendations": [
