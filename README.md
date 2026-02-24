@@ -5,17 +5,18 @@
 
 | Problem | Language | File | Last Updated (UTC) |
 | --- | --- | --- | --- |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | java | `leetcode/group-anagrams-49.-group-anagrams/solution.java` | 2026-02-24T14:37:24.331Z |
 | [group-anagrams](https://leetcode.com/problems/group-anagrams/) | java | `leetcode/group-anagrams-group-anagrams/solution.java` | 2026-02-24T14:34:53.868Z |
 <!-- LC2GH_INDEX_END -->
 
 <!-- LC2GH_ANALYTICS_START -->
 ## Progress Analytics
 
-- Total accepted submissions: **1**
+- Total accepted submissions: **2**
 - Unique problems solved: **1**
 - Current daily streak: **1** day(s)
 - Longest streak: **1** day(s)
-- Solved today: **1**
+- Solved today: **2**
 
 ### Last 7 Days
 
@@ -27,13 +28,13 @@
 | 2026-02-21 | 0 |
 | 2026-02-22 | 0 |
 | 2026-02-23 | 0 |
-| 2026-02-24 | 1 |
+| 2026-02-24 | 2 |
 
 ### Language Breakdown
 
 | Language | Count |
 | --- | --- |
-| java | 1 |
+| java | 2 |
 
 ### Recommended Next Practice
 
@@ -49,5 +50,5 @@
 
 | Problem | Next Review (UTC) | Status |
 | --- | --- | --- |
-| [group-anagrams](https://leetcode.com/problems/group-anagrams/) | 2026-02-24 | due |
+| [group-anagrams](https://leetcode.com/problems/group-anagrams/) | 2026-02-25 | upcoming |
 <!-- LC2GH_ANALYTICS_END -->
