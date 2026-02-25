@@ -1,25 +1,18 @@
 {
-  "generatedAt": "2026-02-24T14:37:26.470Z",
-  "totalAcceptedSubmissions": 2,
-  "uniqueProblemsSolved": 1,
-  "solvedToday": 2,
+  "generatedAt": "2026-02-25T20:22:30.920Z",
+  "totalAcceptedSubmissions": 3,
+  "uniqueProblemsSolved": 2,
+  "solvedToday": 1,
   "currentStreak": 1,
   "longestStreak": 1,
   "languageBreakdown": {
-    "java": 2
+    "java": 3
   },
   "topicBreakdown": {
-    "string": 2
+    "string": 2,
+    "misc": 1
   },
   "last7Days": [
-    {
-      "date": "2026-02-18",
-      "count": 0
-    },
-    {
-      "date": "2026-02-19",
-      "count": 0
-    },
     {
       "date": "2026-02-20",
       "count": 0
@@ -39,9 +32,25 @@
     {
       "date": "2026-02-24",
       "count": 2
+    },
+    {
+      "date": "2026-02-25",
+      "count": 0
+    },
+    {
+      "date": "2026-02-26",
+      "count": 1
     }
   ],
   "recentProblems": [
+    {
+      "title": "3477. Fruits Into Baskets II",
+      "slug": "fruits-into-baskets-ii",
+      "language": "java",
+      "day": "2026-02-26",
+      "problemUrl": "https://leetcode.com/problems/fruits-into-baskets-ii/",
+      "solutionPath": "leetcode/fruits-into-baskets-ii-3477.-fruits-into-baskets-ii/solution.java"
+    },
     {
       "title": "49. Group Anagrams",
       "slug": "group-anagrams",
@@ -49,50 +58,6 @@
       "day": "2026-02-24",
       "problemUrl": "https://leetcode.com/problems/group-anagrams/",
       "solutionPath": "leetcode/group-anagrams-49.-group-anagrams/solution.java"
-    }
-  ],
-  "revisionQueue": [
-    {
-      "slug": "group-anagrams",
-      "title": "group-anagrams",
-      "problemUrl": "https://leetcode.com/problems/group-anagrams/",
-      "solutionPath": "leetcode/group-anagrams-group-anagrams/solution.java",
-      "attempts": 2,
-      "nextReviewDate": "2026-02-25",
-      "dueInDays": 1,
-      "status": "upcoming"
-    }
-  ],
-  "recommendations": [
-    {
-      "topic": "array",
-      "solved": 0,
-      "suggestion": "Practice more array problems",
-      "url": "https://leetcode.com/problemset/?search=array"
-    },
-    {
-      "topic": "hash-map",
-      "solved": 0,
-      "suggestion": "Practice more hash-map problems",
-      "url": "https://leetcode.com/problemset/?search=hash%20map"
-    },
-    {
-      "topic": "two-pointers",
-      "solved": 0,
-      "suggestion": "Practice more two-pointers problems",
-      "url": "https://leetcode.com/problemset/?search=two%20pointers"
-    },
-    {
-      "topic": "sliding-window",
-      "solved": 0,
-      "suggestion": "Practice more sliding-window problems",
-      "url": "https://leetcode.com/problemset/?search=sliding%20window"
-    },
-    {
-      "topic": "binary-search",
-      "solved": 0,
-      "suggestion": "Practice more binary-search problems",
-      "url": "https://leetcode.com/problemset/?search=binary%20search"
     }
   ]
 }
